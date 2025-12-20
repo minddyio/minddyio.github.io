@@ -1,0 +1,32 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Header from "../../components/Header";
+import Hero from "../../components/Hero";
+import Problem from "../../components/Problem";
+import Solution from "../../components/Solution";
+import HowItWorks from "../../components/HowItWorks";
+import TokenUtility from "../../components/TokenUtility";
+// import Tokenomics from "../../components/Tokenomics";
+import Roadmap from "../../components/Roadmap";
+import FAQ from "../../components/FAQ";
+import FinalCTA from "../../components/FinalCTA";
+import Footer from "../../components/Footer";
+
+const locale = "uk";
+---
+
+<Layout title="Minddy — Майбутнє ментального здоров'я">
+  <Header client:load locale={locale} />
+  <main>
+    <Hero client:load locale={locale} />
+    <Problem client:visible locale={locale} />
+    <Solution client:visible locale={locale} />
+    <HowItWorks client:visible locale={locale} />
+    <TokenUtility client:visible locale={locale} />
+    {/* <Tokenomics client:visible locale={locale} /> */}
+    <Roadmap client:visible locale={locale} />
+    <FAQ client:visible locale={locale} />
+    <FinalCTA client:visible locale={locale} />
+  </main>
+  <Footer client:visible locale={locale} />
+</Layout>
