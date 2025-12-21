@@ -19,7 +19,7 @@ export const ru = {
   hero: {
     headline: "Будущее ментального здоровья — умное, приватное и всегда доступное",
     presaleStatus: "Скоро пресейл",
-    joinWaitlist: "Присоединиться",
+    joinWaitlist: "Стать Early Adopter",
     joinTelegram: "Telegram",
   },
 
@@ -195,7 +195,7 @@ export const ru = {
     titleHighlight: "революции",
     subtitle: "Ранние участники получают эксклюзивный доступ к функциям платформы и преимуществам сообщества.",
     presaleEnds: "До конца пресейла",
-    joinWaitlist: "Присоединиться",
+    joinWaitlist: "Стать Early Adopter",
     joinTelegram: "Telegram-сообщество",
     aiPowered: "На базе ИИ",
     privacyFirst: "Приватность",

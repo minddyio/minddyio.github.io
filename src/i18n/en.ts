@@ -19,7 +19,7 @@ export const en = {
   hero: {
     headline: "The Future of Mental Health is Intelligent, Private, and Always Available",
     presaleStatus: "Presale Soon",
-    joinWaitlist: "Join Waitlist",
+    joinWaitlist: "Become Early Adopter",
     joinTelegram: "Join Telegram",
   },
 
@@ -195,7 +195,7 @@ export const en = {
     titleHighlight: "revolution",
     subtitle: "Early supporters get exclusive access to platform features and community benefits.",
     presaleEnds: "Presale ends in",
-    joinWaitlist: "Join Waitlist",
+    joinWaitlist: "Become Early Adopter",
     joinTelegram: "Join Telegram Community",
     aiPowered: "AI-Powered",
     privacyFirst: "Privacy First",
