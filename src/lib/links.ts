@@ -9,6 +9,6 @@ export const TELEGRAM_COMMUNITY = {
   uk: "",
 };
 
-export const BOT_LINK = "https://t.me/minddy_io_bot";
+export const BOT_LINK = "https://t.me/minddy_bot";
 
 export const WHITEPAPER_LINK = "/whitepaper.pdf";
