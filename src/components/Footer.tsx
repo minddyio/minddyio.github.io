@@ -90,6 +90,16 @@ export default function Footer({ locale }: FooterProps) {
                   {t.footer.privacy}
                 </a>
               </li>
+              <li>
+                <a
+                  href="https://t.me/minddy_support_bot"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-text-light hover:text-accent transition-colors"
+                >
+                  {t.footer.support}
+                </a>
+              </li>
             </ul>
           </div>
         </div>

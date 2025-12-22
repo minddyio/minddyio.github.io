@@ -208,6 +208,7 @@ export const en = {
     resources: "Resources",
     terms: "Terms of Service",
     privacy: "Privacy Policy",
+    support: "Support",
     disclaimer1: "is a utility token designed for use within the Minddy platform. It is not an investment, security, or financial instrument. No guarantees are made regarding token value.",
     disclaimer2: "Not available to residents of the United States or other restricted jurisdictions. Please consult local regulations before participating.",
     copyright: "All rights reserved.",
