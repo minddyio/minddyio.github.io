@@ -115,12 +115,12 @@ export const ROADMAP = [
   //   items: ["Token launch", "Community building"],
   // },
   {
-    phase: "Week 2-3",
+    phase: "Month 1",
     title: "Prototype",
     items: ["Presale 1", "Design clickable prototype", "Onboard first psychologists", "Avatar creation", "Smart psychologist recommendation", "Sessions with AI avatar", "Booking a visit"],
   },
   {
-    phase: "Week 6-8",
+    phase: "Month 2-3",
     title: "MVP Development",
     items: ["Payments processing", "Regulatory compliance", "Web cabinet and calendar", "Referrals program", "Partnerships", "AI safety", "First paid users", "Presale 2"],
   },
